@@ -30,16 +30,26 @@ public class GenerateMineField : MonoBehaviour
     int totalTiles;
     List<GameObject> tiles = new List<GameObject>();
 
+    [Header("Sprites")]
+    public Sprite mineSprite;
+
     void Start()
     {
         colCount = levelsArray[difficultyLevel].cols;
         rowCount = levelsArray[difficultyLevel].rows;
         mineCount = levelsArray[difficultyLevel].mines;
         totalTiles = colCount * rowCount;
-        PlaceTiles();
+        SetUpBoard();
 
         // Resize the camera
         theCamera.orthographicSize = (float)rowCount / 2 + 1;
+    }
+
+    public void SetUpBoard()
+    {
+        PlaceTiles();
+        ShuffleTiles();
+        DetermineMines();
     }
 
     public void PlaceTiles()
@@ -68,5 +78,25 @@ public class GenerateMineField : MonoBehaviour
         // This is calculating the center of the tile, so push half a tile down
         float initY = (float)rowCount / 2f - 0.5f;
         return initY;
+    }
+
+    public void ShuffleTiles()
+    {
+        // Implement Fisher-Yates Shuffle
+        for (int i = tiles.Count - 1; i > 0; i--)
+        {
+            int randomPosition = Random.Range(0, i);
+            GameObject tempTile = tiles[randomPosition];
+            tiles[randomPosition] = tiles[i];
+            tiles[i] = tempTile;
+        }
+    }
+
+    public void DetermineMines()
+    {
+        for (int i = 0; i < mineCount; i++)
+        {
+            tiles[i].GetComponent<SpriteRenderer>().sprite = mineSprite;
+        }
     }
 }
