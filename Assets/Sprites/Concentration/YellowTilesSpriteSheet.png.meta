@@ -1,0 +1,1872 @@
+fileFormatVersion: 2
+guid: 99ef9d7dfad17384b8637fee4a65fe63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1524901584236891502
+    second: YellowTilesSpriteSheet_0
+  - first:
+      213: -2697191691403129192
+    second: YellowTilesSpriteSheet_1
+  - first:
+      213: 3962300752935536252
+    second: YellowTilesSpriteSheet_2
+  - first:
+      213: 7678367505824851789
+    second: YellowTilesSpriteSheet_3
+  - first:
+      213: 4964869027935179370
+    second: YellowTilesSpriteSheet_4
+  - first:
+      213: 6354043096184465989
+    second: YellowTilesSpriteSheet_5
+  - first:
+      213: 6839146827266137245
+    second: YellowTilesSpriteSheet_6
+  - first:
+      213: 3720470337469576119
+    second: YellowTilesSpriteSheet_7
+  - first:
+      213: -1573145040149933502
+    second: YellowTilesSpriteSheet_8
+  - first:
+      213: 3790609896125257715
+    second: YellowTilesSpriteSheet_9
+  - first:
+      213: -3067661951317859335
+    second: YellowTilesSpriteSheet_10
+  - first:
+      213: -3408332376602767325
+    second: YellowTilesSpriteSheet_11
+  - first:
+      213: 6172212547678114628
+    second: YellowTilesSpriteSheet_12
+  - first:
+      213: -7221398103280078980
+    second: YellowTilesSpriteSheet_13
+  - first:
+      213: -1226570389946263977
+    second: YellowTilesSpriteSheet_14
+  - first:
+      213: -7710952907697093395
+    second: YellowTilesSpriteSheet_15
+  - first:
+      213: -4243002598077285578
+    second: YellowTilesSpriteSheet_16
+  - first:
+      213: -6237142057354520554
+    second: YellowTilesSpriteSheet_17
+  - first:
+      213: -2528014576133541067
+    second: YellowTilesSpriteSheet_18
+  - first:
+      213: 8367754783118328988
+    second: YellowTilesSpriteSheet_19
+  - first:
+      213: -6459009490583520271
+    second: YellowTilesSpriteSheet_20
+  - first:
+      213: -4811499520657119158
+    second: YellowTilesSpriteSheet_21
+  - first:
+      213: -4060486685551054936
+    second: YellowTilesSpriteSheet_22
+  - first:
+      213: -5791799996513345806
+    second: YellowTilesSpriteSheet_23
+  - first:
+      213: -4434022614035123036
+    second: YellowTilesSpriteSheet_24
+  - first:
+      213: 6231323500937087881
+    second: YellowTilesSpriteSheet_25
+  - first:
+      213: -2720740976903098502
+    second: YellowTilesSpriteSheet_26
+  - first:
+      213: 5083258953365872989
+    second: YellowTilesSpriteSheet_27
+  - first:
+      213: 540813324851364230
+    second: YellowTilesSpriteSheet_28
+  - first:
+      213: 1071807613936414713
+    second: YellowTilesSpriteSheet_29
+  - first:
+      213: 4834861845145617324
+    second: YellowTilesSpriteSheet_30
+  - first:
+      213: -5272676655078700740
+    second: YellowTilesSpriteSheet_31
+  - first:
+      213: 1847485697719682227
+    second: YellowTilesSpriteSheet_32
+  - first:
+      213: -4568439422573793056
+    second: YellowTilesSpriteSheet_33
+  - first:
+      213: -5126347632077726090
+    second: YellowTilesSpriteSheet_34
+  - first:
+      213: -6763369065842248680
+    second: YellowTilesSpriteSheet_35
+  - first:
+      213: -1340884026137871695
+    second: YellowTilesSpriteSheet_36
+  - first:
+      213: 5599412261934222890
+    second: YellowTilesSpriteSheet_37
+  - first:
+      213: -2348265478334242327
+    second: YellowTilesSpriteSheet_38
+  - first:
+      213: -5405549212133256136
+    second: YellowTilesSpriteSheet_39
+  - first:
+      213: -7314946875027895219
+    second: YellowTilesSpriteSheet_40
+  - first:
+      213: 1175307543422753762
+    second: YellowTilesSpriteSheet_41
+  - first:
+      213: 9213836845954340221
+    second: YellowTilesSpriteSheet_42
+  - first:
+      213: -8117052556279866034
+    second: YellowTilesSpriteSheet_43
+  - first:
+      213: 8911243265135937434
+    second: YellowTilesSpriteSheet_44
+  - first:
+      213: -3703094047743511046
+    second: YellowTilesSpriteSheet_45
+  - first:
+      213: 7315191659866564763
+    second: YellowTilesSpriteSheet_46
+  - first:
+      213: -8574609024827955541
+    second: YellowTilesSpriteSheet_47
+  - first:
+      213: 7928426388188011389
+    second: YellowTilesSpriteSheet_48
+  - first:
+      213: 7651688849458842711
+    second: YellowTilesSpriteSheet_49
+  - first:
+      213: -827019048094781337
+    second: YellowTilesSpriteSheet_50
+  - first:
+      213: 2177781170822844417
+    second: YellowTilesSpriteSheet_51
+  - first:
+      213: -7794578997114934723
+    second: YellowTilesSpriteSheet_52
+  - first:
+      213: 8988337984511012629
+    second: YellowTilesSpriteSheet_53
+  - first:
+      213: 7157872894186457242
+    second: YellowTilesSpriteSheet_54
+  - first:
+      213: -2798938901451146949
+    second: YellowTilesSpriteSheet_55
+  - first:
+      213: 8119806684621223242
+    second: YellowTilesSpriteSheet_56
+  - first:
+      213: 8909990658579695566
+    second: YellowTilesSpriteSheet_57
+  - first:
+      213: -1880925729222089063
+    second: YellowTilesSpriteSheet_58
+  - first:
+      213: 7206418655841218780
+    second: YellowTilesSpriteSheet_59
+  - first:
+      213: 4252694044585592662
+    second: YellowTilesSpriteSheet_60
+  - first:
+      213: 6364455205354035529
+    second: YellowTilesSpriteSheet_61
+  - first:
+      213: -4648516167987672877
+    second: YellowTilesSpriteSheet_62
+  - first:
+      213: -3545952922440900551
+    second: YellowTilesSpriteSheet_63
+  - first:
+      213: -6725616234835506565
+    second: YellowTilesSpriteSheet_64
+  - first:
+      213: 7433964861936698452
+    second: YellowTilesSpriteSheet_65
+  - first:
+      213: 8896573607157978238
+    second: YellowTilesSpriteSheet_66
+  - first:
+      213: 4812114716915638582
+    second: YellowTilesSpriteSheet_67
+  - first:
+      213: 6723753376022685171
+    second: YellowTilesSpriteSheet_68
+  - first:
+      213: -4415976023706061625
+    second: YellowTilesSpriteSheet_69
+  - first:
+      213: -9023020011789140638
+    second: YellowTilesSpriteSheet_70
+  - first:
+      213: 4002865087480370410
+    second: YellowTilesSpriteSheet_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 145
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2923122a61676dae0800000000000000
+      internalID: -1524901584236891502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 445
+        width: 95
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e08ce6276a19ad0800000000000000
+      internalID: -2697191691403129192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 445
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c764cf7aa8becf630800000000000000
+      internalID: 3962300752935536252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47a797909a0f8a60800000000000000
+      internalID: 7678367505824851789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a625a6e6312c6e440800000000000000
+      internalID: 4964869027935179370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a2993e7881e2850800000000000000
+      internalID: 6354043096184465989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c10f5ddc789ee50800000000000000
+      internalID: 6839146827266137245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3704e5f04c1a330800000000000000
+      internalID: 3720470337469576119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 437
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24212bdbbe01b2ae0800000000000000
+      internalID: -1573145040149933502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 441
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f750a4fd93fa9430800000000000000
+      internalID: 3790609896125257715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3a7bc55b97d65d0800000000000000
+      internalID: -3067661951317859335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 438
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3201128f2cb23b0d0800000000000000
+      internalID: -3408332376602767325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443109e3c9a18a550800000000000000
+      internalID: 6172212547678114628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 365
+        width: 95
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7faf488fa078cb90800000000000000
+      internalID: -7221398103280078980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 365
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7569d3f9ab85afee0800000000000000
+      internalID: -1226570389946263977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de403f05f213df490800000000000000
+      internalID: -7710952907697093395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b3b801e93dd15c0800000000000000
+      internalID: -4243002598077285578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6181cb938583179a0800000000000000
+      internalID: -6237142057354520554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533fc821320baecd0800000000000000
+      internalID: -2528014576133541067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94085714ac302470800000000000000
+      internalID: 8367754783118328988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 357
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb74e0f61dfc56a0800000000000000
+      internalID: -6459009490583520271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 361
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48254aadae1a3db0800000000000000
+      internalID: -4811499520657119158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afa6847fd046a7c0800000000000000
+      internalID: -4060486685551054936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 358
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe96b5e6946f9fa0800000000000000
+      internalID: -5791799996513345806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4336cccef2772c0800000000000000
+      internalID: -4434022614035123036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 280
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b06e985bb1a7650800000000000000
+      internalID: 6231323500937087881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 280
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f67d12f7cfd3ad0800000000000000
+      internalID: -2720740976903098502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5162b8f51d5b8640800000000000000
+      internalID: 5083258953365872989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68140958ada518700800000000000000
+      internalID: 540813324851364230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff2d30a853dfde00800000000000000
+      internalID: 1071807613936414713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca38ef16b31e81340800000000000000
+      internalID: 4834861845145617324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c390a8e9480b3d6b0800000000000000
+      internalID: -5272676655078700740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 272
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b44234247693a910800000000000000
+      internalID: 1847485697719682227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 276
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0399fbc84a990c0800000000000000
+      internalID: -4568439422573793056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e97da3dfd8bd8b0800000000000000
+      internalID: -5126347632077726090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 273
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8147b912bafa322a0800000000000000
+      internalID: -6763369065842248680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba7e012519346de0800000000000000
+      internalID: -1340884026137871695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 190
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e4e8709cb15bd40800000000000000
+      internalID: 5599412261934222890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 190
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e123953df8496fd0800000000000000
+      internalID: -2348265478334242327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83497e2a1a1abf4b0800000000000000
+      internalID: -5405549212133256136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ccb1bc2961c7a90800000000000000
+      internalID: -7314946875027895219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebdc83dbf78f4010800000000000000
+      internalID: 1175307543422753762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75938d5bcf1edf70800000000000000
+      internalID: 9213836845954340221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d13cfb4bf6a5f80800000000000000
+      internalID: -8117052556279866034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 182
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97058d29881bab70800000000000000
+      internalID: 8911243265135937434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 186
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5726a5597fb9cc0800000000000000
+      internalID: -3703094047743511046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b982f3e9e08c48560800000000000000
+      internalID: 7315191659866564763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 183
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6654ba58ed00980800000000000000
+      internalID: -8574609024827955541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b97cf1bcd670e60800000000000000
+      internalID: 7928426388188011389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 100
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ccfcbd772403a60800000000000000
+      internalID: 7651688849458842711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 100
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76034d7be86d584f0800000000000000
+      internalID: -827019048094781337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1001e6dbf68093e10800000000000000
+      internalID: 2177781170822844417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a6e3713b714d390800000000000000
+      internalID: -7794578997114934723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fedef46cdfcbc70800000000000000
+      internalID: 8988337984511012629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a988165297fd55360800000000000000
+      internalID: 7157872894186457242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b397bf606eb2829d0800000000000000
+      internalID: -2798938901451146949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 92
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45b0b9b8295fa070800000000000000
+      internalID: 8119806684621223242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 96
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec701bcfb45a6ab70800000000000000
+      internalID: 8909990658579695566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99623dcc30c95e5e0800000000000000
+      internalID: -1880925729222089063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 93
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0f9241697520460800000000000000
+      internalID: 7206418655841218780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65781f9a3ba940b30800000000000000
+      internalID: 4252694044585592662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 10
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9495308f946135850800000000000000
+      internalID: 6364455205354035529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 10
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d84f629c272d7fb0800000000000000
+      internalID: -4648516167987672877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930e6a3ba9e3acec0800000000000000
+      internalID: -3545952922440900551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a87031bafc9a2a0800000000000000
+      internalID: -6725616234835506565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4540974b7afba2760800000000000000
+      internalID: 7433964861936698452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7454c44f8af67b70800000000000000
+      internalID: 8896573607157978238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631af20e6d018c240800000000000000
+      internalID: 4812114716915638582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f56a2f42129f4d50800000000000000
+      internalID: 6723753376022685171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 6
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4bb5a043d47b2c0800000000000000
+      internalID: -4415976023706061625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d3114fa1bc7c280800000000000000
+      internalID: -9023020011789140638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTilesSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 3
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae49417c6980d8730800000000000000
+      internalID: 4002865087480370410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

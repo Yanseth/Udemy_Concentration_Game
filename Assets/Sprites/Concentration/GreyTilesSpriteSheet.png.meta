@@ -1,0 +1,1872 @@
+fileFormatVersion: 2
+guid: 3c3384e1b936f084d8c1cd12a906684f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4835932044282262185
+    second: GreyTilesSpriteSheet_0
+  - first:
+      213: -7900814733549687156
+    second: GreyTilesSpriteSheet_1
+  - first:
+      213: 8872525994595966046
+    second: GreyTilesSpriteSheet_2
+  - first:
+      213: -667486573391583212
+    second: GreyTilesSpriteSheet_3
+  - first:
+      213: -8244747082115517604
+    second: GreyTilesSpriteSheet_4
+  - first:
+      213: 3999402286780454004
+    second: GreyTilesSpriteSheet_5
+  - first:
+      213: 8791426436430228936
+    second: GreyTilesSpriteSheet_6
+  - first:
+      213: 2829694687767724161
+    second: GreyTilesSpriteSheet_7
+  - first:
+      213: -4112523940274043334
+    second: GreyTilesSpriteSheet_8
+  - first:
+      213: 3176236345202026572
+    second: GreyTilesSpriteSheet_9
+  - first:
+      213: -4169032602795873315
+    second: GreyTilesSpriteSheet_10
+  - first:
+      213: -6908447763759105591
+    second: GreyTilesSpriteSheet_11
+  - first:
+      213: -967445098535424263
+    second: GreyTilesSpriteSheet_12
+  - first:
+      213: 7424621374529645874
+    second: GreyTilesSpriteSheet_13
+  - first:
+      213: -6424964640469338277
+    second: GreyTilesSpriteSheet_14
+  - first:
+      213: -4102085532995443902
+    second: GreyTilesSpriteSheet_15
+  - first:
+      213: 2774104466744214996
+    second: GreyTilesSpriteSheet_16
+  - first:
+      213: -1010742614422158257
+    second: GreyTilesSpriteSheet_17
+  - first:
+      213: -7212128813125318307
+    second: GreyTilesSpriteSheet_18
+  - first:
+      213: -9216552391003449744
+    second: GreyTilesSpriteSheet_19
+  - first:
+      213: -8574433855705243865
+    second: GreyTilesSpriteSheet_20
+  - first:
+      213: -8007890402352299415
+    second: GreyTilesSpriteSheet_21
+  - first:
+      213: -4434306374296158935
+    second: GreyTilesSpriteSheet_22
+  - first:
+      213: -4046973631498031343
+    second: GreyTilesSpriteSheet_23
+  - first:
+      213: 3639165614863876246
+    second: GreyTilesSpriteSheet_24
+  - first:
+      213: 885078716433245546
+    second: GreyTilesSpriteSheet_25
+  - first:
+      213: -1933177860830713088
+    second: GreyTilesSpriteSheet_26
+  - first:
+      213: -991909178766896159
+    second: GreyTilesSpriteSheet_27
+  - first:
+      213: 3150820495555808161
+    second: GreyTilesSpriteSheet_28
+  - first:
+      213: -3630735621468027395
+    second: GreyTilesSpriteSheet_29
+  - first:
+      213: -6823345012238198869
+    second: GreyTilesSpriteSheet_30
+  - first:
+      213: 6378310712794881697
+    second: GreyTilesSpriteSheet_31
+  - first:
+      213: 6983895104861360673
+    second: GreyTilesSpriteSheet_32
+  - first:
+      213: -6492559950333632910
+    second: GreyTilesSpriteSheet_33
+  - first:
+      213: -5246267933893093333
+    second: GreyTilesSpriteSheet_34
+  - first:
+      213: 2614574290787332863
+    second: GreyTilesSpriteSheet_35
+  - first:
+      213: 2482480326905840402
+    second: GreyTilesSpriteSheet_36
+  - first:
+      213: 4954376087131849409
+    second: GreyTilesSpriteSheet_37
+  - first:
+      213: 5565951385877106979
+    second: GreyTilesSpriteSheet_38
+  - first:
+      213: -14457476316242053
+    second: GreyTilesSpriteSheet_39
+  - first:
+      213: -7003419423805446146
+    second: GreyTilesSpriteSheet_40
+  - first:
+      213: -4766975402537795630
+    second: GreyTilesSpriteSheet_41
+  - first:
+      213: 4786736711323531436
+    second: GreyTilesSpriteSheet_42
+  - first:
+      213: 6817274033790110358
+    second: GreyTilesSpriteSheet_43
+  - first:
+      213: 1243109745059429526
+    second: GreyTilesSpriteSheet_44
+  - first:
+      213: -5828158311399596968
+    second: GreyTilesSpriteSheet_45
+  - first:
+      213: -2737117235753964654
+    second: GreyTilesSpriteSheet_46
+  - first:
+      213: -2892440515050471058
+    second: GreyTilesSpriteSheet_47
+  - first:
+      213: -6939159439660023968
+    second: GreyTilesSpriteSheet_48
+  - first:
+      213: 1751577273791929894
+    second: GreyTilesSpriteSheet_49
+  - first:
+      213: -2424250972141849762
+    second: GreyTilesSpriteSheet_50
+  - first:
+      213: 7167541894964385797
+    second: GreyTilesSpriteSheet_51
+  - first:
+      213: -6289236262784786140
+    second: GreyTilesSpriteSheet_52
+  - first:
+      213: -8900092224940864265
+    second: GreyTilesSpriteSheet_53
+  - first:
+      213: 8021006910777738257
+    second: GreyTilesSpriteSheet_54
+  - first:
+      213: -4045159493913007067
+    second: GreyTilesSpriteSheet_55
+  - first:
+      213: -8492578434519402256
+    second: GreyTilesSpriteSheet_56
+  - first:
+      213: 6054452409802810223
+    second: GreyTilesSpriteSheet_57
+  - first:
+      213: -7097258529088896636
+    second: GreyTilesSpriteSheet_58
+  - first:
+      213: 8940645875250860663
+    second: GreyTilesSpriteSheet_59
+  - first:
+      213: -3318094510694076064
+    second: GreyTilesSpriteSheet_60
+  - first:
+      213: -6684762083784857424
+    second: GreyTilesSpriteSheet_61
+  - first:
+      213: 2244914186398489866
+    second: GreyTilesSpriteSheet_62
+  - first:
+      213: -1912526863926874420
+    second: GreyTilesSpriteSheet_63
+  - first:
+      213: 3801123538092342588
+    second: GreyTilesSpriteSheet_64
+  - first:
+      213: -8440708314168896359
+    second: GreyTilesSpriteSheet_65
+  - first:
+      213: -6673698547670305334
+    second: GreyTilesSpriteSheet_66
+  - first:
+      213: 4536622991422052376
+    second: GreyTilesSpriteSheet_67
+  - first:
+      213: 4987696399455919524
+    second: GreyTilesSpriteSheet_68
+  - first:
+      213: -313301807215855722
+    second: GreyTilesSpriteSheet_69
+  - first:
+      213: 5272018687536889625
+    second: GreyTilesSpriteSheet_70
+  - first:
+      213: -3666863583327176214
+    second: GreyTilesSpriteSheet_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 145
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a27f59829eac1340800000000000000
+      internalID: 4835932044282262185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 445
+        width: 95
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e29923cdaaa5290800000000000000
+      internalID: -7900814733549687156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 445
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cdf48226b812b70800000000000000
+      internalID: 8872525994595966046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418e6ac7f7c9cb6f0800000000000000
+      internalID: -667486573391583212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53f09b1636c49d80800000000000000
+      internalID: -8244747082115517604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4741f69a03bb08730800000000000000
+      internalID: 3999402286780454004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cde664d3cb610a70800000000000000
+      internalID: 8791426436430228936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180843f7358154720800000000000000
+      internalID: 2829694687767724161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 437
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a360da1f3416de6c0800000000000000
+      internalID: -4112523940274043334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 441
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48a376a022441c20800000000000000
+      internalID: 3176236345202026572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb645dafee9426c0800000000000000
+      internalID: -4169032602795873315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 438
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9fbc38c534020a0800000000000000
+      internalID: -6908447763759105591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe6a120fc1f292f0800000000000000
+      internalID: -967445098535424263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 365
+        width: 95
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dac948dcd890760800000000000000
+      internalID: 7424621374529645874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 365
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57316e43b0f5d6a0800000000000000
+      internalID: -6424964640469338277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243a98701f67217c0800000000000000
+      internalID: -4102085532995443902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d50d1e80599f7620800000000000000
+      internalID: 2774104466744214996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44840482fe19f1f0800000000000000
+      internalID: -1010742614422158257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d594e435e0f59eb90800000000000000
+      internalID: -7212128813125318307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07656788e6a381080800000000000000
+      internalID: -9216552391003449744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 357
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f1b9866dd710980800000000000000
+      internalID: -8574433855705243865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 361
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962088f4b124ed090800000000000000
+      internalID: -8007890402352299415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92db3d6b8dd2672c0800000000000000
+      internalID: -4434306374296158935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 358
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fef278ce246d7c0800000000000000
+      internalID: -4046973631498031343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69007c878d9e08230800000000000000
+      internalID: 3639165614863876246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 280
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65234b376e684c00800000000000000
+      internalID: 885078716433245546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 280
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b298d5af8fb25e0800000000000000
+      internalID: -1933177860830713088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e356267bd70c32f0800000000000000
+      internalID: -991909178766896159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abcf940c86f9bb20800000000000000
+      internalID: 3150820495555808161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df58a0150390d9dc0800000000000000
+      internalID: -3630735621468027395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7db9decdb9e41a0800000000000000
+      internalID: -6823345012238198869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae153faccf448850800000000000000
+      internalID: 6378310712794881697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 272
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122d9d97897cbe060800000000000000
+      internalID: 6983895104861360673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 276
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e9f6dcf1bc5e5a0800000000000000
+      internalID: -6492559950333632910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2897cb2c138137b0800000000000000
+      internalID: -5246267933893093333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 273
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff27f310775d84420800000000000000
+      internalID: 2614574290787332863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2134e1f54ba837220800000000000000
+      internalID: 2482480326905840402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 190
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c20f254dca71c440800000000000000
+      internalID: 4954376087131849409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 190
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3215c48bb4b3e3d40800000000000000
+      internalID: 5565951385877106979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f52db7003accff0800000000000000
+      internalID: -14457476316242053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef76107c32bdece90800000000000000
+      internalID: -7003419423805446146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfb5beb02d48ddb0800000000000000
+      internalID: -4766975402537795630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8b2cf7da7ed6240800000000000000
+      internalID: 4786736711323531436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69acd804d92db9e50800000000000000
+      internalID: 6817274033790110358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 182
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cf7131ab9604110800000000000000
+      internalID: 1243109745059429526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 186
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c594a05e83e1fa0800000000000000
+      internalID: -5828158311399596968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b294e306ec30ad0800000000000000
+      internalID: -2737117235753964654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 183
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6108762dacfbd7d0800000000000000
+      internalID: -2892440515050471058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ff34f314723bf90800000000000000
+      internalID: -6939159439660023968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 100
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ed301104ade4810800000000000000
+      internalID: 1751577273791929894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 100
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53f617c5945b5ed0800000000000000
+      internalID: -2424250972141849762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5081512d069387360800000000000000
+      internalID: 7167541894964385797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4212538d0f428b8a0800000000000000
+      internalID: -6289236262784786140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc0f20b6458c7480800000000000000
+      internalID: -8900092224940864265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1144cd9c947505f60800000000000000
+      internalID: 8021006910777738257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c24895fd4bcd7c0800000000000000
+      internalID: -4045159493913007067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 92
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8f35fc8ec442a80800000000000000
+      internalID: -8492578434519402256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 96
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63edcb836cb50450800000000000000
+      internalID: 6054452409802810223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4818b8e78f8718d90800000000000000
+      internalID: -7097258529088896636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 93
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77293e0dd0e831c70800000000000000
+      internalID: 8940645875250860663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061f7ee5f92c3f1d0800000000000000
+      internalID: -3318094510694076064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 10
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8e00c5d44fa33a0800000000000000
+      internalID: -6684762083784857424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 10
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d5487fe89872f10800000000000000
+      internalID: 2244914186398489866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce2f3443f65575e0800000000000000
+      internalID: -1912526863926874420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dbe5bf7bd40c430800000000000000
+      internalID: 3801123538092342588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994d64152849cda80800000000000000
+      internalID: -8440708314168896359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5321897824263a0800000000000000
+      internalID: -6673698547670305334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818d49b139255fe30800000000000000
+      internalID: 4536622991422052376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad9019037bd73540800000000000000
+      internalID: 4987696399455919524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 6
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69739619aade6abf0800000000000000
+      internalID: -313301807215855722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f7bdf5019f92940800000000000000
+      internalID: 5272018687536889625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyTilesSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 3
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9b7f3bffeac1dc0800000000000000
+      internalID: -3666863583327176214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

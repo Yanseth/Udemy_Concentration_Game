@@ -1,0 +1,1872 @@
+fileFormatVersion: 2
+guid: 89f38244a5672304c9a0edd0dfd814da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1232454150577683341
+    second: PinkTilesSpriteSheet_0
+  - first:
+      213: -3839638356550601879
+    second: PinkTilesSpriteSheet_1
+  - first:
+      213: -1538011564146822618
+    second: PinkTilesSpriteSheet_2
+  - first:
+      213: -8419517719187442520
+    second: PinkTilesSpriteSheet_3
+  - first:
+      213: 6494159569954644055
+    second: PinkTilesSpriteSheet_4
+  - first:
+      213: 1055182438741542827
+    second: PinkTilesSpriteSheet_5
+  - first:
+      213: 1018399777480208405
+    second: PinkTilesSpriteSheet_6
+  - first:
+      213: -2698381165989616788
+    second: PinkTilesSpriteSheet_7
+  - first:
+      213: -2545535375778866832
+    second: PinkTilesSpriteSheet_8
+  - first:
+      213: -3742022804594888798
+    second: PinkTilesSpriteSheet_9
+  - first:
+      213: -6170789268086965676
+    second: PinkTilesSpriteSheet_10
+  - first:
+      213: 2377299333128251490
+    second: PinkTilesSpriteSheet_11
+  - first:
+      213: 3703438928875302052
+    second: PinkTilesSpriteSheet_12
+  - first:
+      213: -4297681687551911501
+    second: PinkTilesSpriteSheet_13
+  - first:
+      213: 1327309880548848038
+    second: PinkTilesSpriteSheet_14
+  - first:
+      213: 5232929920651032705
+    second: PinkTilesSpriteSheet_15
+  - first:
+      213: 5307759657081598855
+    second: PinkTilesSpriteSheet_16
+  - first:
+      213: -2655104871177726171
+    second: PinkTilesSpriteSheet_17
+  - first:
+      213: 5233425752818011450
+    second: PinkTilesSpriteSheet_18
+  - first:
+      213: 6527374873927213779
+    second: PinkTilesSpriteSheet_19
+  - first:
+      213: 1414058907449549250
+    second: PinkTilesSpriteSheet_20
+  - first:
+      213: 560463784884743255
+    second: PinkTilesSpriteSheet_21
+  - first:
+      213: -7312200368169103655
+    second: PinkTilesSpriteSheet_22
+  - first:
+      213: 5229418620828038051
+    second: PinkTilesSpriteSheet_23
+  - first:
+      213: 1134589169791668670
+    second: PinkTilesSpriteSheet_24
+  - first:
+      213: 972820672499699057
+    second: PinkTilesSpriteSheet_25
+  - first:
+      213: 9155206884904591554
+    second: PinkTilesSpriteSheet_26
+  - first:
+      213: -5472580586322817388
+    second: PinkTilesSpriteSheet_27
+  - first:
+      213: -4351400732907141689
+    second: PinkTilesSpriteSheet_28
+  - first:
+      213: -758072467520140951
+    second: PinkTilesSpriteSheet_29
+  - first:
+      213: 3790818995949842873
+    second: PinkTilesSpriteSheet_30
+  - first:
+      213: 3354159545835349693
+    second: PinkTilesSpriteSheet_31
+  - first:
+      213: -2657883935652150398
+    second: PinkTilesSpriteSheet_32
+  - first:
+      213: -4848709035164854569
+    second: PinkTilesSpriteSheet_33
+  - first:
+      213: -4111747547021115433
+    second: PinkTilesSpriteSheet_34
+  - first:
+      213: -7718130903081538344
+    second: PinkTilesSpriteSheet_35
+  - first:
+      213: -8932259114004609293
+    second: PinkTilesSpriteSheet_36
+  - first:
+      213: 6634657223920499013
+    second: PinkTilesSpriteSheet_37
+  - first:
+      213: 2930186162040686887
+    second: PinkTilesSpriteSheet_38
+  - first:
+      213: 9151095198136699809
+    second: PinkTilesSpriteSheet_39
+  - first:
+      213: 8874084483725120575
+    second: PinkTilesSpriteSheet_40
+  - first:
+      213: 1421230222950203400
+    second: PinkTilesSpriteSheet_41
+  - first:
+      213: 936231300946114045
+    second: PinkTilesSpriteSheet_42
+  - first:
+      213: -9092640765446426640
+    second: PinkTilesSpriteSheet_43
+  - first:
+      213: 2500182897735267942
+    second: PinkTilesSpriteSheet_44
+  - first:
+      213: -8215411427483287161
+    second: PinkTilesSpriteSheet_45
+  - first:
+      213: -8201937684508646647
+    second: PinkTilesSpriteSheet_46
+  - first:
+      213: 7861742122655917481
+    second: PinkTilesSpriteSheet_47
+  - first:
+      213: 8467260946137525347
+    second: PinkTilesSpriteSheet_48
+  - first:
+      213: 3011911464980105590
+    second: PinkTilesSpriteSheet_49
+  - first:
+      213: -7566228862136207108
+    second: PinkTilesSpriteSheet_50
+  - first:
+      213: 1873463347227120966
+    second: PinkTilesSpriteSheet_51
+  - first:
+      213: -8893107215979008537
+    second: PinkTilesSpriteSheet_52
+  - first:
+      213: -7819338934766973065
+    second: PinkTilesSpriteSheet_53
+  - first:
+      213: 3530535855094709464
+    second: PinkTilesSpriteSheet_54
+  - first:
+      213: -1185175051672083216
+    second: PinkTilesSpriteSheet_55
+  - first:
+      213: -8192404741702857337
+    second: PinkTilesSpriteSheet_56
+  - first:
+      213: -7336921760928597206
+    second: PinkTilesSpriteSheet_57
+  - first:
+      213: -1697250465914401006
+    second: PinkTilesSpriteSheet_58
+  - first:
+      213: -7966584161918526473
+    second: PinkTilesSpriteSheet_59
+  - first:
+      213: 7839443844938573021
+    second: PinkTilesSpriteSheet_60
+  - first:
+      213: -4600425214875396862
+    second: PinkTilesSpriteSheet_61
+  - first:
+      213: -8141020701311100564
+    second: PinkTilesSpriteSheet_62
+  - first:
+      213: -3124650969644945054
+    second: PinkTilesSpriteSheet_63
+  - first:
+      213: 5958805006648636248
+    second: PinkTilesSpriteSheet_64
+  - first:
+      213: -6588034462861875149
+    second: PinkTilesSpriteSheet_65
+  - first:
+      213: -4168365737158767982
+    second: PinkTilesSpriteSheet_66
+  - first:
+      213: -4237771124080951962
+    second: PinkTilesSpriteSheet_67
+  - first:
+      213: 5932046695468994878
+    second: PinkTilesSpriteSheet_68
+  - first:
+      213: -8751625220611839975
+    second: PinkTilesSpriteSheet_69
+  - first:
+      213: 8572831038350133110
+    second: PinkTilesSpriteSheet_70
+  - first:
+      213: 4487328314412648164
+    second: PinkTilesSpriteSheet_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 145
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b7327258e8a1110800000000000000
+      internalID: 1232454150577683341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 445
+        width: 95
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96336db024dd6bac0800000000000000
+      internalID: -3839638356550601879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 445
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622f59291a2e7aae0800000000000000
+      internalID: -1538011564146822618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4b9bf2e3dd72b80800000000000000
+      internalID: -8419517719187442520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750a9d9a8b3ef1a50800000000000000
+      internalID: 6494159569954644055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba78b6266d2c4ae00800000000000000
+      internalID: 1055182438741542827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5107b00b335122e00800000000000000
+      internalID: 1018399777480208405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63a59c40ac6d8ad0800000000000000
+      internalID: -2698381165989616788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 437
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079928300117cacd0800000000000000
+      internalID: -2545535375778866832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 441
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afe5b6d51aa11cc0800000000000000
+      internalID: -3742022804594888798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a32ebdad3fc5aa0800000000000000
+      internalID: -6170789268086965676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 438
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268e1e3e52dddf020800000000000000
+      internalID: 2377299333128251490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac27fa8512456330800000000000000
+      internalID: 3703438928875302052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 365
+        width: 95
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b954c776419b54c0800000000000000
+      internalID: -4297681687551911501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 365
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1faf0dd4d8b6210800000000000000
+      internalID: 1327309880548848038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188faee990a1f9840800000000000000
+      internalID: 5232929920651032705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7837f715943f8a940800000000000000
+      internalID: 5307759657081598855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527da00ef2c272bd0800000000000000
+      internalID: -2655104871177726171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d491b8efcd0a840800000000000000
+      internalID: 5233425752818011450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2ed344dd4e59a50800000000000000
+      internalID: 6527374873927213779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 357
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1e106951fbf9310800000000000000
+      internalID: 1414058907449549250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 361
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ca687c7da27c700800000000000000
+      internalID: 560463784884743255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9deccc0c188d58a90800000000000000
+      internalID: -7312200368169103655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 358
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3b44c6780a29840800000000000000
+      internalID: 5229418620828038051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1107fa6dedebf00800000000000000
+      internalID: 1134589169791668670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 280
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d40865f37208d00800000000000000
+      internalID: 972820672499699057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 280
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0e2fbc724dd0f70800000000000000
+      internalID: 9155206884904591554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e8783a3fc7d04b0800000000000000
+      internalID: -5472580586322817388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c502bf8618bc93c0800000000000000
+      internalID: -4351400732907141689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96945737b19ca75f0800000000000000
+      internalID: -758072467520140951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1b46dcac1bb9430800000000000000
+      internalID: 3790818995949842873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db66089f55e5c8e20800000000000000
+      internalID: 3354159545835349693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 272
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2838c3184ac4d1bd0800000000000000
+      internalID: -2657883935652150398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 276
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d695c372dce5bcb0800000000000000
+      internalID: -4848709035164854569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dff8b5146320f6c0800000000000000
+      internalID: -4111747547021115433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 273
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc2cd706d0b3e490800000000000000
+      internalID: -7718130903081538344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6820439ad3a0480800000000000000
+      internalID: -8932259114004609293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 190
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549b24ed799031c50800000000000000
+      internalID: 6634657223920499013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 190
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72943322acc1aa820800000000000000
+      internalID: 2930186162040686887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab88be19983ffe70800000000000000
+      internalID: 9151095198136699809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34dd3f22d4172b70800000000000000
+      internalID: 8874084483725120575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8000ff69b5939b310800000000000000
+      internalID: 1421230222950203400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5be7868692efc00800000000000000
+      internalID: 936231300946114045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff6451166370d180800000000000000
+      internalID: -9092640765446426640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 182
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6667405591f62b220800000000000000
+      internalID: 2500182897735267942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 186
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7818c2575defcfd80800000000000000
+      internalID: -8215411427483287161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903e8f4b12ddc2e80800000000000000
+      internalID: -8201937684508646647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 183
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5a1a8aec48a1d60800000000000000
+      internalID: 7861742122655917481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ca01318f0c18570800000000000000
+      internalID: 8467260946137525347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 100
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679c01505857cc920800000000000000
+      internalID: 3011911464980105590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 100
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8301fffea5ff690800000000000000
+      internalID: -7566228862136207108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645df2ffcf0eff910800000000000000
+      internalID: 1873463347227120966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edab12da16559480800000000000000
+      internalID: -8893107215979008537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f45dedaa02c7390800000000000000
+      internalID: -7819338934766973065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc33b597abfef030800000000000000
+      internalID: 3530535855094709464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f42e60e1996d8fe0800000000000000
+      internalID: -1185175051672083216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 92
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d439aea4bbe4e80800000000000000
+      internalID: -8192404741702857337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 96
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b7407f7840e2a90800000000000000
+      internalID: -7336921760928597206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f4e4491b72278e0800000000000000
+      internalID: -1697250465914401006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 93
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbd79bd9e1017190800000000000000
+      internalID: -7966584161918526473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4af2e44ac4bcc60800000000000000
+      internalID: 7839443844938573021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 10
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2051a9324a10820c0800000000000000
+      internalID: -4600425214875396862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 10
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69104d1ec8450f80800000000000000
+      internalID: -8141020701311100564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261bb3b8f7203a4d0800000000000000
+      internalID: -3124650969644945054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8537c1b159de1b250800000000000000
+      internalID: 5958805006648636248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33826199f899294a0800000000000000
+      internalID: -6588034462861875149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a0ebe627df626c0800000000000000
+      internalID: -4168365737158767982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d3fb58d996035c0800000000000000
+      internalID: -4237771124080951962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31957a4a0dd25250800000000000000
+      internalID: 5932046695468994878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 6
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918e41eda3bfb8680800000000000000
+      internalID: -8751625220611839975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6778d489860d8f670800000000000000
+      internalID: 8572831038350133110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkTilesSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 3
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e64e1bb351364e30800000000000000
+      internalID: 4487328314412648164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

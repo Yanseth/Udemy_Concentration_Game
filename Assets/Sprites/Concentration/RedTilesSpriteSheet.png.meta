@@ -1,0 +1,1872 @@
+fileFormatVersion: 2
+guid: d9625372b45e56644a28caede5d1dd1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1309036659925930040
+    second: RedTilesSpriteSheet_0
+  - first:
+      213: -732482832014645600
+    second: RedTilesSpriteSheet_1
+  - first:
+      213: -5816342493832873774
+    second: RedTilesSpriteSheet_2
+  - first:
+      213: 1306429578972515487
+    second: RedTilesSpriteSheet_3
+  - first:
+      213: -5329423184878768116
+    second: RedTilesSpriteSheet_4
+  - first:
+      213: 4729973497810230311
+    second: RedTilesSpriteSheet_5
+  - first:
+      213: -733317272718381921
+    second: RedTilesSpriteSheet_6
+  - first:
+      213: -8931573153542684797
+    second: RedTilesSpriteSheet_7
+  - first:
+      213: -6255791184542970823
+    second: RedTilesSpriteSheet_8
+  - first:
+      213: -7322381800058684653
+    second: RedTilesSpriteSheet_9
+  - first:
+      213: 2500645748768184845
+    second: RedTilesSpriteSheet_10
+  - first:
+      213: 806184988344690544
+    second: RedTilesSpriteSheet_11
+  - first:
+      213: 1453472782593322973
+    second: RedTilesSpriteSheet_12
+  - first:
+      213: 3337298801950978600
+    second: RedTilesSpriteSheet_13
+  - first:
+      213: 6820581481531778232
+    second: RedTilesSpriteSheet_14
+  - first:
+      213: -7166298721415179478
+    second: RedTilesSpriteSheet_15
+  - first:
+      213: 8039920199020920202
+    second: RedTilesSpriteSheet_16
+  - first:
+      213: -6040877296071646621
+    second: RedTilesSpriteSheet_17
+  - first:
+      213: -2985210099145551532
+    second: RedTilesSpriteSheet_18
+  - first:
+      213: 565266153434000031
+    second: RedTilesSpriteSheet_19
+  - first:
+      213: 1558641344167757458
+    second: RedTilesSpriteSheet_20
+  - first:
+      213: -6406140387625387528
+    second: RedTilesSpriteSheet_21
+  - first:
+      213: -5344834098618190708
+    second: RedTilesSpriteSheet_22
+  - first:
+      213: -6439128124239774938
+    second: RedTilesSpriteSheet_23
+  - first:
+      213: -6587962690693783783
+    second: RedTilesSpriteSheet_24
+  - first:
+      213: -119252271521383231
+    second: RedTilesSpriteSheet_25
+  - first:
+      213: 7647927952288259387
+    second: RedTilesSpriteSheet_26
+  - first:
+      213: 8934657482480124592
+    second: RedTilesSpriteSheet_27
+  - first:
+      213: -440179444837074688
+    second: RedTilesSpriteSheet_28
+  - first:
+      213: -6290957535004885267
+    second: RedTilesSpriteSheet_29
+  - first:
+      213: -9111602065989334592
+    second: RedTilesSpriteSheet_30
+  - first:
+      213: 6782580895738235608
+    second: RedTilesSpriteSheet_31
+  - first:
+      213: -8515696115790074862
+    second: RedTilesSpriteSheet_32
+  - first:
+      213: 225640407053423075
+    second: RedTilesSpriteSheet_33
+  - first:
+      213: 1266587952531589660
+    second: RedTilesSpriteSheet_34
+  - first:
+      213: 7910064543913583913
+    second: RedTilesSpriteSheet_35
+  - first:
+      213: -8870424488578926706
+    second: RedTilesSpriteSheet_36
+  - first:
+      213: -4325636627135645875
+    second: RedTilesSpriteSheet_37
+  - first:
+      213: -245313853740420472
+    second: RedTilesSpriteSheet_38
+  - first:
+      213: -2263540609590113372
+    second: RedTilesSpriteSheet_39
+  - first:
+      213: -4493954160154879828
+    second: RedTilesSpriteSheet_40
+  - first:
+      213: 2210337579728498979
+    second: RedTilesSpriteSheet_41
+  - first:
+      213: -9054470361940138416
+    second: RedTilesSpriteSheet_42
+  - first:
+      213: 8505739329719903451
+    second: RedTilesSpriteSheet_43
+  - first:
+      213: -5495687375631478916
+    second: RedTilesSpriteSheet_44
+  - first:
+      213: -2362183296403675617
+    second: RedTilesSpriteSheet_45
+  - first:
+      213: 3419578390187444045
+    second: RedTilesSpriteSheet_46
+  - first:
+      213: 5786734446334382463
+    second: RedTilesSpriteSheet_47
+  - first:
+      213: -286463687182397106
+    second: RedTilesSpriteSheet_48
+  - first:
+      213: -1730886894589434794
+    second: RedTilesSpriteSheet_49
+  - first:
+      213: -7008317434655288977
+    second: RedTilesSpriteSheet_50
+  - first:
+      213: -4331127515589366194
+    second: RedTilesSpriteSheet_51
+  - first:
+      213: -8604349706258082132
+    second: RedTilesSpriteSheet_52
+  - first:
+      213: -483802010563320961
+    second: RedTilesSpriteSheet_53
+  - first:
+      213: 5496791933029700459
+    second: RedTilesSpriteSheet_54
+  - first:
+      213: -5709305569066896652
+    second: RedTilesSpriteSheet_55
+  - first:
+      213: 5886526537944445320
+    second: RedTilesSpriteSheet_56
+  - first:
+      213: -7840737822408446034
+    second: RedTilesSpriteSheet_57
+  - first:
+      213: 8801134799420084130
+    second: RedTilesSpriteSheet_58
+  - first:
+      213: 1865515248067829083
+    second: RedTilesSpriteSheet_59
+  - first:
+      213: 3440429728152724324
+    second: RedTilesSpriteSheet_60
+  - first:
+      213: -4349259585404474560
+    second: RedTilesSpriteSheet_61
+  - first:
+      213: -3187364943637128124
+    second: RedTilesSpriteSheet_62
+  - first:
+      213: -7512194667354341914
+    second: RedTilesSpriteSheet_63
+  - first:
+      213: -5893752829458967947
+    second: RedTilesSpriteSheet_64
+  - first:
+      213: 7069296301706853341
+    second: RedTilesSpriteSheet_65
+  - first:
+      213: -181786447119440917
+    second: RedTilesSpriteSheet_66
+  - first:
+      213: -2487247944816255116
+    second: RedTilesSpriteSheet_67
+  - first:
+      213: 4919132249987549437
+    second: RedTilesSpriteSheet_68
+  - first:
+      213: 5170163022783195859
+    second: RedTilesSpriteSheet_69
+  - first:
+      213: 1580712220474878528
+    second: RedTilesSpriteSheet_70
+  - first:
+      213: -1133869119804469390
+    second: RedTilesSpriteSheet_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 145
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83059d818e1aa2210800000000000000
+      internalID: 1309036659925930040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 445
+        width: 95
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6e1b1ceb2b5d5f0800000000000000
+      internalID: -732482832014645600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 445
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8f4137153384fa0800000000000000
+      internalID: -5816342493832873774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c48b2c7ce512210800000000000000
+      internalID: 1306429578972515487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00f19f89d51a06b0800000000000000
+      internalID: -5329423184878768116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c9df5f5dd34a140800000000000000
+      internalID: 4729973497810230311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c66f363dbb2d5f0800000000000000
+      internalID: -733317272718381921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f3ca1d98dac0480800000000000000
+      internalID: -8931573153542684797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 437
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ccb40ff07fe29a0800000000000000
+      internalID: -6255791184542970823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 441
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b77b96c8ca16a90800000000000000
+      internalID: -7322381800058684653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a1b6c3f0414b220800000000000000
+      internalID: 2500645748768184845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 438
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077a98db9f4203b00800000000000000
+      internalID: 806184988344690544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf6c218bc5cb2410800000000000000
+      internalID: 1453472782593322973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 365
+        width: 95
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822ff9f1497705e20800000000000000
+      internalID: 3337298801950978600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 365
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b42f4078b297ae50800000000000000
+      internalID: 6820581481531778232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2356b318413c8c90800000000000000
+      internalID: -7166298721415179478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d312dd2d8839f60800000000000000
+      internalID: 8039920199020920202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3626debea1e7a2ca0800000000000000
+      internalID: -6040877296071646621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451558c2b376296d0800000000000000
+      internalID: -2985210099145551532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a2cf6529a38d700800000000000000
+      internalID: 565266153434000031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 357
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2964b536b0861a510800000000000000
+      internalID: 1558641344167757458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 361
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f93e463241d817a0800000000000000
+      internalID: -6406140387625387528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84b77894b553d5b0800000000000000
+      internalID: -5344834098618190708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 358
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bf573461f93a6a0800000000000000
+      internalID: -6439128124239774938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f9bab56dad294a0800000000000000
+      internalID: -6587962690693783783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 280
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc3f4dd0b4585ef0800000000000000
+      internalID: -119252271521383231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 280
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d1cefb3f5e22a60800000000000000
+      internalID: 7647927952288259387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2830974a74efb70800000000000000
+      internalID: 8934657482480124592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009be09802b24e9f0800000000000000
+      internalID: -440179444837074688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee77fce37702b8a0800000000000000
+      internalID: -6290957535004885267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c98df142361d8180800000000000000
+      internalID: -9111602065989334592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da04d69361902e50800000000000000
+      internalID: 6782580895738235608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 272
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ca823308b22d980800000000000000
+      internalID: -8515696115790074862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 276
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1d46531c2a12300800000000000000
+      internalID: 225640407053423075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a4f6b3803d39110800000000000000
+      internalID: 1266587952531589660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 273
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925a16a1bc136cd60800000000000000
+      internalID: 7910064543913583913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87b357dcebe5e480800000000000000
+      internalID: -8870424488578926706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 190
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d473924e76048f3c0800000000000000
+      internalID: -4325636627135645875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 190
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882f1598958789cf0800000000000000
+      internalID: -245313853740420472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abc5beeec94690e0800000000000000
+      internalID: -2263540609590113372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca85417508442a1c0800000000000000
+      internalID: -4493954160154879828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321f9616152bcae10800000000000000
+      internalID: 2210337579728498979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056614fad2f085280800000000000000
+      internalID: -9054470361940138416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd42604ead47a0670800000000000000
+      internalID: 8505739329719903451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 182
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f03e203756bb3b0800000000000000
+      internalID: -5495687375631478916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 186
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f166f7baec6d73fd0800000000000000
+      internalID: -2362183296403675617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4789bc9d68c47f20800000000000000
+      internalID: 3419578390187444045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 183
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71174bc15c9e4050800000000000000
+      internalID: 5786734446334382463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41d1745bc6460cf0800000000000000
+      internalID: -286463687182397106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 100
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6542e9d3a87aaf7e0800000000000000
+      internalID: -1730886894589434794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 100
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61d132cc647dbe90800000000000000
+      internalID: -7008317434655288977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e206cc87eb4e3c0800000000000000
+      internalID: -4331127515589366194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6104ba785379880800000000000000
+      internalID: -8604349706258082132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73e0ca72a03949f0800000000000000
+      internalID: -483802010563320961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63d77cc327884c40800000000000000
+      internalID: 5496791933029700459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2bb9985d874c0b0800000000000000
+      internalID: -5709305569066896652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 92
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881b617b2b421b150800000000000000
+      internalID: 5886526537944445320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 96
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafef561e7a103390800000000000000
+      internalID: -7840737822408446034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af43cb3879e32a70800000000000000
+      internalID: 8801134799420084130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 93
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d5824fb34a3e910800000000000000
+      internalID: 1865515248067829083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463ac3d0c9cdebf20800000000000000
+      internalID: 3440429728152724324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 10
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04be000537354a3c0800000000000000
+      internalID: -4349259585404474560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 10
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cd9fc987434c3d0800000000000000
+      internalID: -3187364943637128124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edb2c850c25fb790800000000000000
+      internalID: -7512194667354341914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572152e270f253ea0800000000000000
+      internalID: -5893752829458967947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb383b188f2b1260800000000000000
+      internalID: 7069296301706853341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be32772803a2a7df0800000000000000
+      internalID: -181786447119440917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f18e41c258b7dd0800000000000000
+      internalID: -2487247944816255116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df80dabf7b4444440800000000000000
+      internalID: 4919132249987549437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 6
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da2ad360eb10c740800000000000000
+      internalID: 5170163022783195859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a2689b361dfe510800000000000000
+      internalID: 1580712220474878528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTilesSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 3
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f05440b00b340f0800000000000000
+      internalID: -1133869119804469390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

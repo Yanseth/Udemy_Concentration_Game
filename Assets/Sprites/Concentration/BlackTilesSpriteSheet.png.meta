@@ -1,0 +1,1872 @@
+fileFormatVersion: 2
+guid: 4e207efddbb5cb34fab3108280ac0284
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2855791223034763430
+    second: BlackTilesSpriteSheet_0
+  - first:
+      213: 2299372316906335067
+    second: BlackTilesSpriteSheet_1
+  - first:
+      213: -1299356537335388462
+    second: BlackTilesSpriteSheet_2
+  - first:
+      213: 1519827354076744631
+    second: BlackTilesSpriteSheet_3
+  - first:
+      213: 3989715750784387680
+    second: BlackTilesSpriteSheet_4
+  - first:
+      213: -6449931179708416098
+    second: BlackTilesSpriteSheet_5
+  - first:
+      213: -8179612084093765650
+    second: BlackTilesSpriteSheet_6
+  - first:
+      213: 5562579924775902244
+    second: BlackTilesSpriteSheet_7
+  - first:
+      213: 2858438494726324092
+    second: BlackTilesSpriteSheet_8
+  - first:
+      213: -5328371996620650063
+    second: BlackTilesSpriteSheet_9
+  - first:
+      213: 6497778371525463567
+    second: BlackTilesSpriteSheet_10
+  - first:
+      213: 8119850217947547238
+    second: BlackTilesSpriteSheet_11
+  - first:
+      213: 6799216883002087245
+    second: BlackTilesSpriteSheet_12
+  - first:
+      213: -6724860364662186515
+    second: BlackTilesSpriteSheet_13
+  - first:
+      213: -4239788794083436606
+    second: BlackTilesSpriteSheet_14
+  - first:
+      213: -4237391466038729996
+    second: BlackTilesSpriteSheet_15
+  - first:
+      213: 7254582278435858740
+    second: BlackTilesSpriteSheet_16
+  - first:
+      213: -4275449218678720855
+    second: BlackTilesSpriteSheet_17
+  - first:
+      213: -7338481263531373660
+    second: BlackTilesSpriteSheet_18
+  - first:
+      213: -8909873794092829777
+    second: BlackTilesSpriteSheet_19
+  - first:
+      213: 7970982727483515839
+    second: BlackTilesSpriteSheet_20
+  - first:
+      213: 2134823956346284413
+    second: BlackTilesSpriteSheet_21
+  - first:
+      213: 4705062291852002469
+    second: BlackTilesSpriteSheet_22
+  - first:
+      213: -6796274408373194988
+    second: BlackTilesSpriteSheet_23
+  - first:
+      213: -8604355598555387125
+    second: BlackTilesSpriteSheet_24
+  - first:
+      213: -5001507852656221600
+    second: BlackTilesSpriteSheet_25
+  - first:
+      213: -2799244513178676052
+    second: BlackTilesSpriteSheet_26
+  - first:
+      213: -758358337050796446
+    second: BlackTilesSpriteSheet_27
+  - first:
+      213: -982418991525515363
+    second: BlackTilesSpriteSheet_28
+  - first:
+      213: 4885742670027856348
+    second: BlackTilesSpriteSheet_29
+  - first:
+      213: -4565952926144316213
+    second: BlackTilesSpriteSheet_30
+  - first:
+      213: 2311046914594433292
+    second: BlackTilesSpriteSheet_31
+  - first:
+      213: 7127482505571887309
+    second: BlackTilesSpriteSheet_32
+  - first:
+      213: 6840816545270512502
+    second: BlackTilesSpriteSheet_33
+  - first:
+      213: 4061960269187813991
+    second: BlackTilesSpriteSheet_34
+  - first:
+      213: -7546811824897776133
+    second: BlackTilesSpriteSheet_35
+  - first:
+      213: 4537237157589341184
+    second: BlackTilesSpriteSheet_36
+  - first:
+      213: 5968954783025160271
+    second: BlackTilesSpriteSheet_37
+  - first:
+      213: -1976525550316474060
+    second: BlackTilesSpriteSheet_38
+  - first:
+      213: 3561657710541049716
+    second: BlackTilesSpriteSheet_39
+  - first:
+      213: 5023884491505506619
+    second: BlackTilesSpriteSheet_40
+  - first:
+      213: -3084309693247539998
+    second: BlackTilesSpriteSheet_41
+  - first:
+      213: -3982722333338272682
+    second: BlackTilesSpriteSheet_42
+  - first:
+      213: 4987065246808561735
+    second: BlackTilesSpriteSheet_43
+  - first:
+      213: 3324472044148897702
+    second: BlackTilesSpriteSheet_44
+  - first:
+      213: 9171311769428361077
+    second: BlackTilesSpriteSheet_45
+  - first:
+      213: -673532449133649632
+    second: BlackTilesSpriteSheet_46
+  - first:
+      213: -8183482835050516636
+    second: BlackTilesSpriteSheet_47
+  - first:
+      213: -646771186638900217
+    second: BlackTilesSpriteSheet_48
+  - first:
+      213: -5923164498904524890
+    second: BlackTilesSpriteSheet_49
+  - first:
+      213: -8874815103084662586
+    second: BlackTilesSpriteSheet_50
+  - first:
+      213: 6656974188057159455
+    second: BlackTilesSpriteSheet_51
+  - first:
+      213: 3165452310731169960
+    second: BlackTilesSpriteSheet_52
+  - first:
+      213: -3273367409222282040
+    second: BlackTilesSpriteSheet_53
+  - first:
+      213: 4965980788759689555
+    second: BlackTilesSpriteSheet_54
+  - first:
+      213: -4860082320417704967
+    second: BlackTilesSpriteSheet_55
+  - first:
+      213: -6250223081235900667
+    second: BlackTilesSpriteSheet_56
+  - first:
+      213: 8927126521951832546
+    second: BlackTilesSpriteSheet_57
+  - first:
+      213: -3763180489929316209
+    second: BlackTilesSpriteSheet_58
+  - first:
+      213: 3406706085415981976
+    second: BlackTilesSpriteSheet_59
+  - first:
+      213: -5321014713214084909
+    second: BlackTilesSpriteSheet_60
+  - first:
+      213: 7169734278485718031
+    second: BlackTilesSpriteSheet_61
+  - first:
+      213: -6798045303638855258
+    second: BlackTilesSpriteSheet_62
+  - first:
+      213: -4174309620767423749
+    second: BlackTilesSpriteSheet_63
+  - first:
+      213: 2269686051596192058
+    second: BlackTilesSpriteSheet_64
+  - first:
+      213: 904016407949536683
+    second: BlackTilesSpriteSheet_65
+  - first:
+      213: -2925308178431926386
+    second: BlackTilesSpriteSheet_66
+  - first:
+      213: -5900548594016632884
+    second: BlackTilesSpriteSheet_67
+  - first:
+      213: -2619470652603793183
+    second: BlackTilesSpriteSheet_68
+  - first:
+      213: -6404165723085136435
+    second: BlackTilesSpriteSheet_69
+  - first:
+      213: 3406067623924648657
+    second: BlackTilesSpriteSheet_70
+  - first:
+      213: 1183426234594764603
+    second: BlackTilesSpriteSheet_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 145
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57a55663013e58d0800000000000000
+      internalID: -2855791223034763430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 445
+        width: 95
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ba19b80f209ef10800000000000000
+      internalID: 2299372316906335067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 445
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6ea831d12c7fde0800000000000000
+      internalID: -1299356537335388462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb8aa71de2871510800000000000000
+      internalID: 1519827354076744631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ac84046515e5730800000000000000
+      internalID: 3989715750784387680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f73c7e3cd3d76a0800000000000000
+      internalID: -6449931179708416098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7391f952e2c7e80800000000000000
+      internalID: -8179612084093765650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c9cf248f0423d40800000000000000
+      internalID: 5562579924775902244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 437
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ff6729aa63ba720800000000000000
+      internalID: 2858438494726324092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 441
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9894666e1dd06b0800000000000000
+      internalID: -5328371996620650063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 435
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ecdff800fbc2a50800000000000000
+      internalID: 6497778371525463567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 438
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666442e90c08fa070800000000000000
+      internalID: 8119850217947547238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d479d263bbbab5e50800000000000000
+      internalID: 6799216883002087245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 365
+        width: 95
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedd430d02f7ca2a0800000000000000
+      internalID: -6724860364662186515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 365
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c799fd1e8e3925c0800000000000000
+      internalID: -4239788794083436606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f26d7c89e2c135c0800000000000000
+      internalID: -4237391466038729996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439630455247da460800000000000000
+      internalID: 7254582278435858740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6fe61869d8aa4c0800000000000000
+      internalID: -4275449218678720855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab4a58fb2a782a90800000000000000
+      internalID: -7338481263531373660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3f885adf4c95480800000000000000
+      internalID: -8909873794092829777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 357
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3ed6efe8e9e9e60800000000000000
+      internalID: 7970982727483515839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 361
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79a308d31b60ad10800000000000000
+      internalID: 2134823956346284413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 355
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a48ce7d93dbb4140800000000000000
+      internalID: 4705062291852002469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 358
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f66dc0f68cea1a0800000000000000
+      internalID: -6796274408373194988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b66f2cb20379880800000000000000
+      internalID: -8604355598555387125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 280
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062691d6b13179ab0800000000000000
+      internalID: -5001507852656221600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 280
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4168042f51729d0800000000000000
+      internalID: -2799244513178676052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e91a34c15c975f0800000000000000
+      internalID: -758358337050796446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f268dd12fbd52f0800000000000000
+      internalID: -982418991525515363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd99af69215adc340800000000000000
+      internalID: 4885742670027856348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc3300510a72a0c0800000000000000
+      internalID: -4565952926144316213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09e9a3acec721020800000000000000
+      internalID: 2311046914594433292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 272
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc86c676397e9e260800000000000000
+      internalID: 7127482505571887309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 276
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bb67a57667fee50800000000000000
+      internalID: 6840816545270512502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 270
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76290b8f75bfe5830800000000000000
+      internalID: 4061960269187813991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 273
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5204641a6544790800000000000000
+      internalID: -7546811824897776133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004d0dfc72187fe30800000000000000
+      internalID: 4537237157589341184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 190
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40659210ccf5d250800000000000000
+      internalID: 5968954783025160271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 190
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43137ebeb78f194e0800000000000000
+      internalID: -1976525550316474060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f845831dc8d6130800000000000000
+      internalID: 3561657710541049716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3997ccc35c68b540800000000000000
+      internalID: 5023884491505506619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4bfa4eca45235d0800000000000000
+      internalID: -3084309693247539998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c7b52a3278ab8c0800000000000000
+      internalID: -3982722333338272682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74858bb5b6d953540800000000000000
+      internalID: 4987065246808561735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 182
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a73639d5b5e22e20800000000000000
+      internalID: 3324472044148897702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 186
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ff22d667b074f70800000000000000
+      internalID: 9171311769428361077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021a0b85ec127a6f0800000000000000
+      internalID: -673532449133649632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 183
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fae4f28bd6e6e80800000000000000
+      internalID: -8183482835050516636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7043e6158053607f0800000000000000
+      internalID: -646771186638900217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 100
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a757904541bccda0800000000000000
+      internalID: -5923164498904524890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 100
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0fd5d3fa256d480800000000000000
+      internalID: -8874815103084662586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17671ef0c2526c50800000000000000
+      internalID: 6656974188057159455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a02296fa12fdeb20800000000000000
+      internalID: 3165452310731169960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c417f13fa9a292d0800000000000000
+      internalID: -3273367409222282040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3597f6b6735bae440800000000000000
+      internalID: 4965980788759689555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3b85021e48d8cb0800000000000000
+      internalID: -4860082320417704967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 92
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5079cf3093fb249a0800000000000000
+      internalID: -6250223081235900667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 96
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e948e5164683eb70800000000000000
+      internalID: 8927126521951832546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 90
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f882518584f76cbc0800000000000000
+      internalID: -3763180489929316209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 93
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893916b922d074f20800000000000000
+      internalID: 3406706085415981976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d85f3e6f45f726b0800000000000000
+      internalID: -5321014713214084909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 10
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f043513e653008360800000000000000
+      internalID: 7169734278485718031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 10
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1f79d50dd78a1a0800000000000000
+      internalID: -6798045303638855258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf289af248fd116c0800000000000000
+      internalID: -4174309620767423749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39cc09407b8f7f10800000000000000
+      internalID: 2269686051596192058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bade4f22226bb8c00800000000000000
+      internalID: 904016407949536683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f150ee5b73767d0800000000000000
+      internalID: -2925308178431926386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf35b1f05a0d1ea0800000000000000
+      internalID: -5900548594016632884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e08dfbe155c5abd0800000000000000
+      internalID: -2619470652603793183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 6
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd17c0a435df17a0800000000000000
+      internalID: -6404165723085136435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daccf43578c44f20800000000000000
+      internalID: 3406067623924648657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTilesSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 3
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3726eae3ef5c6010800000000000000
+      internalID: 1183426234594764603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
