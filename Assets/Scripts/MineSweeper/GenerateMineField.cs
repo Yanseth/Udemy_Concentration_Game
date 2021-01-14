@@ -52,7 +52,7 @@ public class GenerateMineField : MonoBehaviour
         ShuffleTiles();
         DetermineMines();
         SetMinesTouching();
-        FlipAllTiles();
+        // FlipAllTiles();  // This is just for debuging.
     }
 
     public void PlaceTiles()

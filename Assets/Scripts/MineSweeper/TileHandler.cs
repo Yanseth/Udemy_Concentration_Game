@@ -17,33 +17,47 @@ public class TileHandler : MonoBehaviour
 
     public SpriteRenderer currentSprite;
 
-    // Start is called before the first frame update
-    void Start()
+    public void SetFlag()
     {
-    }
-
-    public void FlagTile()
-    {
-        isFlagged = !isFlagged;
-        if (isFlagged)
+        if (!isFlipped)
         {
-            currentSprite.sprite = flagSprite;
-        }
-        else
-        {
-            currentSprite.sprite = defaultSprite;
+            isFlagged = !isFlagged;
+            if (isFlagged)
+            {
+                currentSprite.sprite = flagSprite;
+            }
+            else
+            {
+                currentSprite.sprite = defaultSprite;
+            }
         }
     }
 
     public void FlipTile()
     {
-        if (isMine)
+        if (!isFlagged && !isFlipped)
         {
-            currentSprite.sprite = mineSprite;
+            isFlipped = true;
+            if (isMine)
+            {
+                currentSprite.sprite = mineSprite;
+            }
+            else
+            {
+                currentSprite.sprite = tileImages[numMinesTouching];
+            }
         }
-        else
+    }
+
+    private void OnMouseOver()
+    {
+        if (Input.GetMouseButtonUp(1))
         {
-            currentSprite.sprite = tileImages[numMinesTouching];
+            SetFlag();
+        }
+        if (Input.GetMouseButtonUp(0))
+        {
+            FlipTile();
         }
     }
 

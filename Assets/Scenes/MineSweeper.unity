@@ -187,7 +187,7 @@ MonoBehaviour:
   - cols: 25
     rows: 25
     mines: 100
-  difficultyLevel: 0
+  difficultyLevel: 2
   mineSprite: {fileID: -6764571901380783459, guid: 9cf57057377eb7d4db5525afae603fc7,
     type: 3}
 --- !u!114 &559019267
