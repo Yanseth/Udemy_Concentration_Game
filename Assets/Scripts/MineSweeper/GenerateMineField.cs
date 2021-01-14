@@ -29,6 +29,7 @@ public class GenerateMineField : MonoBehaviour
     int mineCount;
     int totalTiles;
     List<GameObject> tiles = new List<GameObject>();
+    List<GameObject> shuffledTiles;
 
     [Header("Sprites")]
     public Sprite mineSprite;
@@ -50,6 +51,8 @@ public class GenerateMineField : MonoBehaviour
         PlaceTiles();
         ShuffleTiles();
         DetermineMines();
+        SetMinesTouching();
+        FlipAllTiles();
     }
 
     public void PlaceTiles()
@@ -82,13 +85,14 @@ public class GenerateMineField : MonoBehaviour
 
     public void ShuffleTiles()
     {
+        shuffledTiles = new List<GameObject>(tiles);
         // Implement Fisher-Yates Shuffle
-        for (int i = tiles.Count - 1; i > 0; i--)
+        for (int i = shuffledTiles.Count - 1; i > 0; i--)
         {
             int randomPosition = Random.Range(0, i);
-            GameObject tempTile = tiles[randomPosition];
-            tiles[randomPosition] = tiles[i];
-            tiles[i] = tempTile;
+            GameObject tempTile = shuffledTiles[randomPosition];
+            shuffledTiles[randomPosition] = shuffledTiles[i];
+            shuffledTiles[i] = tempTile;
         }
     }
 
@@ -96,7 +100,95 @@ public class GenerateMineField : MonoBehaviour
     {
         for (int i = 0; i < mineCount; i++)
         {
-            tiles[i].GetComponent<SpriteRenderer>().sprite = mineSprite;
+            TileHandler handler = shuffledTiles[i].GetComponent<TileHandler>();
+            handler.SetMine();
         }
     }
+
+    public void SetMinesTouching()
+    {
+        for (int i = 0; i < tiles.Count; i += 1)
+        {
+            int mineCount = CalculateNeiboringMines(i);
+            tiles[i].GetComponent<TileHandler>().SetNumMinesTouching(mineCount);
+        }
+    }
+
+    void FlipAllTiles()
+    {
+        for (int i = 0; i < tiles.Count; i += 1)
+        {
+            tiles[i].GetComponent<TileHandler>().FlipTile();
+        }
+    }
+
+    public int CalculateNeiboringMines(int tileIdx)
+    {
+        int minesTouchingCount = 0;
+        bool checkLeft = true;
+        bool checkRight = true;
+        bool checkAbove = true;
+        bool checkBelow = true;
+
+        if (tileIdx % colCount == 0) { checkLeft = false; }
+        if (tileIdx - colCount < 0) { checkAbove = false; }
+        if (tileIdx % colCount == colCount - 1) { checkRight = false; }
+        if (tileIdx + colCount >= totalTiles) { checkBelow = false; }
+        // Check left
+        if (checkLeft)
+        {
+            minesTouchingCount += CheckLeft(tileIdx, checkAbove, checkBelow);
+        }
+        if (checkRight)
+        {
+            minesTouchingCount += CheckRight(tileIdx, checkAbove, checkBelow);
+        }
+        minesTouchingCount += CheckAboveBelow(tileIdx, checkAbove, checkBelow);
+
+        return minesTouchingCount;
+    }
+
+    public int CheckAboveBelow(int tileIdx, bool checkAbove, bool checkBelow)
+    {
+        int minesTouchingCount = 0;
+
+        if (checkAbove)
+        {
+            if (tiles[tileIdx - colCount].GetComponent<TileHandler>().IsMine())
+            {
+                minesTouchingCount += 1;
+            }
+        }
+        if (checkBelow)
+        {
+            if (tiles[tileIdx + colCount].GetComponent<TileHandler>().IsMine())
+            {
+                minesTouchingCount += 1;
+            }
+        }
+        return minesTouchingCount;
+    }
+
+    public int CheckLeft(int tileIdx, bool checkAbove, bool checkBelow)
+    {
+        int minesTouchingCount = 0;
+        if (tiles[tileIdx - 1].GetComponent<TileHandler>().IsMine())
+        {
+            minesTouchingCount += 1;
+        }
+        minesTouchingCount += CheckAboveBelow(tileIdx - 1, checkAbove, checkBelow);
+        return minesTouchingCount;
+    }
+
+    public int CheckRight(int tileIdx, bool checkAbove, bool checkBelow)
+    {
+        int minesTouchingCount = 0;
+        if (tiles[tileIdx + 1].GetComponent<TileHandler>().IsMine())
+        {
+            minesTouchingCount += 1;
+        }
+        minesTouchingCount += CheckAboveBelow(tileIdx + 1, checkAbove, checkBelow);
+        return minesTouchingCount;
+    }
+
 }
